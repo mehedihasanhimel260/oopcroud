@@ -39,26 +39,26 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h4 class="text-center mb-4">Create Your Domain Name</h4>
+                    <h4 class="text-center mb-4">Data Table</h4>
                     <div class="table-wrap">
                         <table class="table">
                             <thead class="table-dark">
                                 <tr class="text-center">
-                                    <th>TLD</th>
-                                    <th>Duration</th>
-                                    <th>Registration</th>
-                                    <th>Renewal</th>
-                                    <th>Transfer</th>
-                                    <th>Register</th>
+                                    <th>ID</th>
+                                    <th>Name</th>
+                                    <th>Gender</th>
+                                    <th>Address</th>
+                                    <th>Email</th>
+                                    <th>Action</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr class="text-center">
-                                    <th scope="row" class="scope">.com</th>
-                                    <td>1 Year</td>
-                                    <td>$70.00</td>
-                                    <td>$5.00</td>
-                                    <td>$5.00</td>
+                                    <th scope="row" class="scope">1</th>
+                                    <td>Abul</td>
+                                    <td>Male</td>
+                                    <td>Dhaka,Bangladesh</td>
+                                    <td>abul@gmai.com</td>
                                     <td>
                                         <a href="#" class="btn btn-primary">Edite</a>
                                         <a href="#" class="btn btn-primary ">Delete</a>
